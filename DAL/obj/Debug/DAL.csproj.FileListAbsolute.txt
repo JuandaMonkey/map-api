@@ -1,0 +1,9 @@
+C:\proyectos\map-api-crud\DAL\bin\Debug\DAL.dll
+C:\proyectos\map-api-crud\DAL\bin\Debug\DAL.pdb
+C:\proyectos\map-api-crud\DAL\bin\Debug\BLL.dll
+C:\proyectos\map-api-crud\DAL\bin\Debug\BLL.pdb
+C:\proyectos\map-api-crud\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\proyectos\map-api-crud\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\proyectos\map-api-crud\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\proyectos\map-api-crud\DAL\obj\Debug\DAL.dll
+C:\proyectos\map-api-crud\DAL\obj\Debug\DAL.pdb
