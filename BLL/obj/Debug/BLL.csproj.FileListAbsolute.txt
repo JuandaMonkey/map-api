@@ -1,0 +1,6 @@
+C:\proyectos\map-api-crud\BLL\bin\Debug\BLL.dll
+C:\proyectos\map-api-crud\BLL\bin\Debug\BLL.pdb
+C:\proyectos\map-api-crud\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\proyectos\map-api-crud\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\proyectos\map-api-crud\BLL\obj\Debug\BLL.dll
+C:\proyectos\map-api-crud\BLL\obj\Debug\BLL.pdb
